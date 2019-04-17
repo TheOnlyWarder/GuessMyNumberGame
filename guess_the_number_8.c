@@ -1,12 +1,12 @@
 /*
-Author:Sinan Cem Daðtekin
+Author:Sinan Cem DaÃ°tekin
 Purpose:Guess the number game.
 */
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
 
-    int main8()
+    int main()
 {
 time_t t;
 //initialization of random number generator
